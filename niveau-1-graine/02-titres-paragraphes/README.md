@@ -54,7 +54,6 @@ Ouvrez `index.html` dans le navigateur **avant** de commencer : tout le texte es
 <summary>Indice 1 — Comment repérer la hiérarchie des titres ?</summary>
 
 Imaginez la table des matières d'un livre :
-
 ```
 Titre du livre             → h1
   Chapitre                 → h2
