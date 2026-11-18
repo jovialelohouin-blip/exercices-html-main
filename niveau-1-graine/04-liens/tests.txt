@@ -1,0 +1,10 @@
+| Page de départ | Lien | Destination attendue | Fonctionne ? |
+|---|---|---|---|
+| `index.html` | Nos cultures | `cultures.html` |oui |
+| `index.html` | Nous contacter | `pages/contact.html` |oui |
+| `index.html` | Site de la FAO | fao.org (nouvel onglet) |oui |
+| `cultures.html` | Retour à l'accueil | `index.html` |oui |
+| `cultures.html` | Article Wikipédia | wikipedia.org | oui|
+| `pages/contact.html` | Retour à l'accueil | `index.html` |oui |
+| `pages/contact.html` | Nos cultures | `cultures.html` | oui|
+| `pages/contact.html` | Adresse e-mail | logiciel de messagerie |oui |
